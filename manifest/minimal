@@ -4,6 +4,7 @@
     <project name="zircon"
              path="zircon"
              remote="https://fuchsia.googlesource.com/zircon"
+             remote-branch="milestone-1011"
              gerrithost="https://fuchsia-review.googlesource.com"/>
   </projects>
   <hooks>
